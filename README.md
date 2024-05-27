@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Killas53
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++/C/C#
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me - no way
 
